@@ -52,5 +52,6 @@ curl -X DELETE http://localhost:8080/api/v1/todo/d6a12b21-6c41-448d-87bc-f94ea84
 This project uses the following third-party libraries:
 
 * GIN Framework [go to page](https://github.com/gin-gonic/gin)
+* GIN CORS [go to page](https://github.com/gin-contrib/cors)
 * GoDotEnv [go to page](https://github.com/joho/godotenv)
 * UUID [go to page](https://github.com/google/uuid)
